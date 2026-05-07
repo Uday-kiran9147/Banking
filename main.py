@@ -1,5 +1,4 @@
 #Banking system Simulation:
-# Banking System Simulation
 
 # In-memory database
 bank_db = {}
